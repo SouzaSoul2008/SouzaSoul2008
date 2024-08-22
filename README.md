@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**SouzaSoul2008/SouzaSoul2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bryan de Souza Trindade 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Java Script
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você pode entrar em contato comigo 📫
+
+00001105310206sp@al.educacao.sp.gov.br 
+
+
+![](https://tenor.com/pt-BR/view/youthful-energy-excited-jack-quaid-rlm-energetic-gif-25489482)
+
